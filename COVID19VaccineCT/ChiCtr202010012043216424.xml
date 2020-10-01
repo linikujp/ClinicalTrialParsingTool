@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR2000034780</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2020-07-18</date_registration>
+      <primary_sponsor>China National Biotec Group Co.Ltd</primary_sponsor>
+      <public_title>A Phase III clinical trial for inactivated novel coronavirus pneumonia (COVID-19) vaccine (Vero cells)  </public_title>
+      <acronym />
+      <scientific_title>Randomized, Double Blind, Parallel Placebo Controlled, Phase III Clinical Trial to Evaluate the Safety and Protective Efficacy of Inactivated SARS-CoV-2 Vaccine in Healthy Population Aged 18 Years and above</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2020-07-16</date_enrolment>
+      <type_enrolment />
+      <target_size>Control group:5000;Group 1:5000;Group 2:5000;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=56651</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Parallel</study_design>
+      <phase>3</phase>
+      <hc_freetext>Novel coronavirus Pneumonia (COVID-19)</hc_freetext>
+      <i_freetext>Control group:placebo;Group 1:Inactivated SARS-CoV-2 vaccine (Vero cell);Group 2:Inactivated SARS-CoV-2 vaccine (Vero cell);</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Wei Chen</firstname>
+        <middlename />
+        <lastname />
+        <address>1 Golden Industrial Park Road, Zhengdian, Jiangxia District,Wuhan, Hubei, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 027 88862194</telephone>
+        <email>564890016@qq.com</email>
+        <affiliation>Wuhan Institute of Biological Products co., LTD.</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Dr. Nawal Al Kaabi</firstname>
+        <middlename />
+        <lastname />
+        <address>Shaikh Khalifa Medical City, SEHA. P.O. Box 51900, Abu Dhabi, UAE</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+97 15 05595521</telephone>
+        <email>nalkaabi@seha.ae</email>
+        <affiliation>Shaikh Khalifa Medical City</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>UAE</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Age range: Healthy subjects aged 18 years old and above
+2. By asking for medical history and physical examination, the investigator judged that the health condition is well.
+3. Female subjects of childbearing age are not nursing or pregnant at the time of enrolment (negative urine pregnancy test) and have no family planning within the first 3 months after enrolment. Effective contraceptive measures have been taken within 2 weeks before inclusion;
+4. During the whole follow-up period of the study, be able and willing to complete the whole prescribed study plan.
+With self-ability to understand the research procedures, the informed consent &amp; voluntarily sign an informed consent form and be able to comply with the requirements of the clinical study protocol.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. SARS-CoV-2 Infection Confirmed Cases, Suspected Cases or Asymptomatic Infection;
+2. SARS-CoV-2 Nucleic acid test positive;
+3. Have a history of SARS, MERS infection (self-report, on-site inquiry);
+4. Fever (axillary temperature &gt; 37.0 degree C), dry cough, fatigue, nasal obstruction, runny nose, pharyngeal pain, myalgia, diarrhea, shortness of breath and dyspnea occurred within 14 days before vaccination;
+5. Axillary body temperature &gt;37.0 degree C before vaccination;
+6. Previous severe allergic reactions to vaccination (such as acute allergic reactions, urticaria, dyspnea, angioneurotic edema or abdominal pain) or allergy to known ingredients of inactivated SARS-CoV-2 vaccine have occurred;
+7. Have a history of convulsion, epilepsy, encephalopathy or mental illness or family history;
+8. Congenital malformations or developmental disorders, genetic defects, severe malnutrition, etc.;
+9. Severe liver and kidney diseases, uncontrollable hypertension (systolic blood pressure &gt;=140 mmHg, diastolic blood pressure &gt;=90 mmHg), diabetic complications, malignant tumors, various acute diseases or acute attack period of chronic diseases;
+10. Has been diagnosed with congenital or acquired immune deficiency, HIV infection, lymphoma, leukemia or other autoimmune diseases;
+11. Diseases known or suspected include severe respiratory diseases, severe cardiovascular diseases, liver and kidney diseases, and malignant tumors;
+12. History of coagulation dysfunction (e.g. Coagulation factor deficiency, coagulation disease);
+13. Receiving anti-TB therapy;
+14. Patients receiving immunotherapy or inhibitor therapy within 3 months (continuous oral or infusion for more than 14 days);
+15. Live attenuated vaccine is inoculated within 1 month before this vaccination, other vaccines are inoculated within 14 days before this vaccination;
+16. Received blood products within 3 months before this vaccination;
+17. Received other research drugs within 6 months before this vaccination;
+18. Investigator judged other circumstances that are not suitable for this clinical trial.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Protective efficacy against COVID 19;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>To evaluate the protective effect14 days after 2 doses of immunization of preventing severe cases of SARS-CoV-2 pneumonia and deaths accompanied by COVID-19.;incidene of adverse reactions/events;incidene of adverse reactions/events;Incidence of Serious Adverse Events (SAE);Four-fold growth rate and antibody level (GMT, GMI) of serum antibody against COVID-19;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>China Ministry of Science and Technology, and enterprise self-owned fund</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2020-07-08</approval_date>
+        <contact_name>Dr.Asma Alm Mannaei</contact_name>
+        <contact_address>PO Box 5674 Abu Dhabi ,UAE</contact_address>
+        <contact_phone>+97 124493333</contact_phone>
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>
